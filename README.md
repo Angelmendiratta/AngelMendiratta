@@ -21,4 +21,4 @@ I'm into **civic tech**, **open source**, and making software that matters. Curr
 - Open to collaborating on Python / AI projects
 
 ## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/angel-mendiratta-146198369)
+[LinkedIn](https://www.linkedin.com/in/m-angel)
