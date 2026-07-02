@@ -1,11 +1,11 @@
 # Hey, I'm Angel 👋
 
-CS undergrad at IPS Academy, Indore · 1st year · building things with Python and AI
+CS undergrad at IPS Academy, Indore · 2nd year · building things with Python and AI
 
 I'm into **civic tech**, **open source**, and making software that matters. Currently contributing to OWASP and exploring AI fairness.
 
 ## 🛠 What I work with
-`Python` `JavaScript` `React` `FastAPI` `BeautifulSoup` `Git`
+`Python` `JavaScript` `React` `FastAPI` `BeautifulSoup` `Git`  `AWS`  `Cloud Services`
 
 ## 🚀 Featured projects
 
