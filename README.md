@@ -1,24 +1,113 @@
-# Hey, I'm Angel 👋
+# Hi 👋 I'm Angel Mendiratta
 
-CS undergrad at IPS Academy, Indore · 2nd year · building things with Python and AI
+### AI Software Developer | AWS | Generative AI | Full Stack Developer
 
-I'm into **civic tech**, **open source**, and making software that matters. Currently contributing to OWASP and exploring AI fairness.
+I'm a Computer Science undergraduate passionate about building AI-powered applications and cloud-native software.
 
-## 🛠 What I work with
-`Python` `JavaScript` `React` `FastAPI` `BeautifulSoup` `Git`  `AWS`  `Cloud Services`
+Currently I'm working as an **AI Software Developer Intern at Cloud Ladder Consulting**, where I develop intelligent chatbot systems using AWS services including Amazon Lex, AWS Lambda and API Gateway.
 
-## 🚀 Featured projects
+---
 
-| Project | What it does |
-|---|---|
-| [⚖️ NyayAI](https://github.com/Angelmendiratta/nyayai) | AI bias auditor for Indian govt schemes — detects caste, gender & regional bias using Gemini AI |
-| [🌦 Weather Dashboard](https://github.com/Angelmendiratta/weather-dashboard-with-api) | Fetches real-time weather for any city via OpenWeatherMap API |
-| [🕷 Blog Scraper](https://github.com/Angelmendiratta/blog-scraper-with-beautifulsoup) | Extracts blog titles & dates from WordPress sites using BeautifulSoup |
+## 🚀 About Me
 
-## 🌱 Currently
-- Contributing to **OWASP Nest** open source project
-- Learning web security and Python backend development
-- Open to collaborating on Python / AI projects
+- 💻 AI Software Developer Intern @ Cloud Ladder Consulting
+- 🎓 B.Tech Computer Science (2025–2029)
+- ☁️ Building cloud-native AI applications on AWS
+- 🤖 Interested in Conversational AI & Generative AI
+- 🌱 Currently learning advanced AWS architecture & LLM engineering
 
-## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/m-angel)
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+Python • JavaScript • SQL • HTML • CSS
+
+### AI & Generative AI
+
+- Prompt Engineering
+- Amazon Lex V2
+- AWS Bedrock
+- NLP
+- Conversational AI
+- AI Chatbots
+
+### AWS
+
+- AWS Lambda
+- Amazon API Gateway
+- Amazon Lex
+- DynamoDB
+- CloudWatch
+- IAM
+
+### Frontend
+
+- HTML
+- CSS
+- JavaScript
+- React
+
+### Backend
+
+- Python
+- Node.js
+- Express.js
+- REST APIs
+
+### Tools
+
+Git • GitHub • VS Code • Postman • Power BI • Tableau
+
+---
+
+# Featured Projects
+
+## 🤖 AWS Consultation Chatbot
+
+Cloud-native consultation chatbot supporting dynamic forms and conversational AI.
+
+**Tech**
+
+AWS Lambda • Amazon Lex • API Gateway • Python • JavaScript
+
+Features
+
+- Dynamic form generation
+- AI conversation flow
+- Appointment booking
+- Dual assistants
+- Session management
+- AWS cloud architecture
+
+🔗 Repository:
+https://github.com/Angelmendiratta/integrated-chatbot
+
+---
+
+## ⚖️ NyayAI
+
+AI-powered legal assistance platform focused on fairness and responsible AI.
+
+---
+
+## 🌦 Weather API Application
+
+Python application demonstrating REST API integration and JSON processing.
+
+---
+
+## 📫 Connect with me
+
+LinkedIn
+
+https://linkedin.com/in/m-angel
+
+GitHub
+
+https://github.com/Angelmendiratta
+
+Email
+
+angelmendiratta6@gmail.com
