@@ -82,7 +82,7 @@ Features
 - AWS cloud architecture
 
 🔗 Repository:
-https://github.com/Angelmendiratta/integrated-chatbot
+(https://github.com/Angelmendiratta/aws-dynamic-chatbot)
 
 ---
 
